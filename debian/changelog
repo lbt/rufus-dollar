@@ -1,4 +1,10 @@
-rufus-dollar (1.0.4-1) UNRELEASED; urgency=low
+ruby-rufus-dollar (1.0.4-2) unstable; urgency=low
+
+  * Update to gem2deb 0.2.1
+
+ -- David Greaves <david@dgreaves.com>  Wed, 06 Apr 2011 20:51:28 +0100
+
+ruby-rufus-dollar (1.0.4-1) UNRELEASED; urgency=low
 
   * Initial release using gem2deb
 
